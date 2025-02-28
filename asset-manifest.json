@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kranthikumar-dev/PERN-Todo/static/css/main.f855e6bc.css",
+    "main.js": "/kranthikumar-dev/PERN-Todo/static/js/main.d9488178.js",
+    "index.html": "/kranthikumar-dev/PERN-Todo/index.html",
+    "main.f855e6bc.css.map": "/kranthikumar-dev/PERN-Todo/static/css/main.f855e6bc.css.map",
+    "main.d9488178.js.map": "/kranthikumar-dev/PERN-Todo/static/js/main.d9488178.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.d9488178.js"
+  ]
+}
